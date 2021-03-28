@@ -1,0 +1,255 @@
+<html>
+<head><title>EdMeSe.Career</title></head>
+	<div class="header">
+	<nav>
+	 <div class="navbar" id='nav'>
+		<ul>
+       	  <li><a href="EXAM.html">Home</a></li>
+       	  <li>			
+			<div class="dropdown">
+			<button class="dropbtn">Course</button>
+			<div class="dropdown-content">
+			<a href="EXAM.html#C1">Bachelor</a>
+			<a href="EXAM.html#C1">Masters</a>
+			<a href="EXAM.html#C1">Diploma Course</a>
+			</div>
+			</div></li>
+       	  <li>
+			<div class="dropdown">
+			<button class="dropbtn">Career</button>
+			<div class="dropdown-content">
+			<a href="EXAM.html#C2">Engineering</a>
+			<a href="EXAM.html#C2">Medical</a>
+			<a href="EXAM.html#C2">Information Technology</a>
+			</div>
+			</div></li>		  
+		  </li>
+       	  <li>
+			<div class="dropdown">
+			<button class="dropbtn"><a href="EXAM.html#C3">Sign Up</a></button>
+			<div class="dropdown-content">
+			<a href="EXAM.html#C3">Log In</a>
+			<a href="EXAM.html#C3">Create Account</a>
+			</div>
+			</div>
+		  </li>
+		  <li><a href="EXAM.html#C4">About</a></li>
+       	  <li>
+			<div class="dropdown">
+			<button class="dropbtn"><a href="EXAM.html#C5">Contact</a></button>
+			<div class="dropdown-content">
+			<a href="EXAM.html#C5">Mail</a>
+			<a href="EXAM.html#C5">Social Media</a>
+			<a href="EXAM.html#C5">Call Us</a>
+			</div>
+			</div>
+		  </li>
+       </ul>
+	 </div>
+	 </nav>
+	</div>
+	
+	<script type="text/javascript">
+			var  nav = document.getElementById('nav');
+				window.onscroll = function()
+				{
+				if (window.pageYOffset >100) 
+				{
+					nav.style.background = "rgba(31, 29, 29, 0.48)";
+					nav.style.boxShadow = "0px 4px 2px DarkSlateGray#2f4f4f42";
+				}
+				else
+				{
+					nav.style.background = "rgba(31, 29, 29, 0.48)";
+					nav.style.boxShadow = "none";
+				}
+      }
+	
+   </script> 
+<link rel="stylesheet" href="exam1.css" >
+<body bgcolor="#f1f1f1">
+		<div class="logo">
+			<img src="Ed.png" alt="logo" height="200" width="380"/>
+		</div>
+	<section align="center">
+	<h2 align="center">EdMeSe</h2>
+	Welcome To Education Medium Search<br/>(EdMeSe)
+	</section>
+		
+<hr/>
+
+	 <article>
+	 <center><img src="D:\Other\A\Icon\career.png" width="280" height="280"/></center>
+		<h1 id="C2" align="center">Career</h1>
+		<p align="center">Work where you’re inspired to explore your passions, 
+		where your talents are nurtured and cultivated. 
+		Innovate with leading-edge technologies on some of the coolest projects you can imagine.
+		And get the tools you need to keep learning and growing so you stay continually ahead of the game while making a difference in the world. 
+		Looking for an career? Are you looking for a job? 
+		Want to take your Salesforce career to the next level?
+		We're hiring for these and many other positions.</p>
+	 </article>
+			 <center><img src="D:\Other\A\Image\career.png" alt="logo" height="400" width="1080"/></center>
+
+ <article>
+		<p align="center"><font color="Green" size="5px"><b>The EdMeSe vision</b></font><br/><br/>
+		
+		<font color="Green"><b>Who we want to be</b></font><br/><br/>
+		EdMeSe will be the leading global talent platform connecting jobs and people.<br/><br/>
+		
+		<font color="Green"><b>The EdMeSe mission</b></font><br/><br/>
+		How we deliver that vision: We create and deliver the best recruiting media, technologies and platforms for connecting jobs and people;
+		we strive every day to help our customers hire and help people find jobs.<br/><br/>
+		
+		<font color="Green"><b>Why EdMeSe?</b></font><br/><br/>
+		EdMeSe with its cutting edge technology provides relevant profiles to employers and relevant jobs to jobseekers across industry verticals, experience levels and geographies.
+		We help employers find not only the best quality candidates, but more of them. 
+		To streamline the process so you can save time and money. 
+		And to help you make smarter decisions to improve your ROI. 
+		Basically, we want to give you the ability to hire like no one else can.
+</p>
+	 </article>
+
+<center><img src="D:\Other\A\Image\work.png" alt="logo" height="400" width="1080"/></center>
+
+<article>
+	 <center><img src="D:\Other\A\Icon\engineer.png" width="280" height="280"/></center>
+		<h1 id="A1" align="center">Engineering</h1>
+		<p align="center">Engineering contains a large number of job opportunities and specialties. 
+		We’ve selected a list of specialties below. 
+		With each specialty, we look at the definition and nature of the work, 
+		the specialties employment trends, possibly career advancement opportunities, 
+		and hope that it is helpful for you in determining whether or not the career is right for you.</p>
+
+			<div class="dropdown1">
+			<button class="dropbtn1"><b>Civil Engineering</b></button>
+			<div class="dropdown1-content">
+			<a href="https://www.asce.org/">American Society of Civil Engineers</a>
+			<a href="http://www.asee.org/">American Society for Engineering Education</a>
+			<a href="https://www.asminternational.org/">ASM International</a>
+			</div>
+			</div>
+			
+			<div class="dropdown1">
+			<button class="dropbtn1"><b>Electrical Engineering</b></button>
+			<div class="dropdown1-content">
+			<a href="https://www.ieee.org/about/ieee-history.html">Institute of American Electrical and Electronics Engineer</a>
+			<a href="https://www.aeecenter.org/">Association of Energy Engineers</a>
+			<a href="https://afe.clubexpress.com/content.aspx?sl=1195580365">Association for Facilities Engineering</a>
+			</div>
+			</div>
+			
+			<div class="dropdown1">
+			<button class="dropbtn1"><b>Mechanical Engineering</b></button>
+			<div class="dropdown1-content">
+			<a href="https://www.me.washington.edu/students/orgs">Washington University</a>
+			<a href="http://www.imeche.org/">Institute of Mechanical Engineering</a>
+			<a href="https://www.asme.org/">The American Society of Mechanical Engineers</a>
+			</div>
+			</div>
+			
+			<div class="dropdown1">
+			<button class="dropbtn1"><b>Aerospace Engineering</b></button>
+			<div class="dropdown1-content">
+			<a href="https://www.afit.edu/index.cfm">Air Force Institute of Technology</a>
+			<a href="https://www.aia-aerospace.org/careers/">Aerospace Industries Association (AIA)</a>
+			<a href="https://www.spacex.com/careers">Space Exploration Technologies CORP.</a>
+			</div>
+			</div>
+			
+		
+	 </article>
+<hr/>	 
+	 <article>
+	 <center><img src="D:\Other\A\Icon\medical.png" width="280" height="280"/></center>
+		<h1 id="A2" align="center">Medical</h1>
+		<p align="center">Today, tremendous opportunities for career success and advancement exist within the health care industry,
+		buoyed by increasing demand for services and a shortage of qualified professionals. 
+		There are projected openings across disciplines in both hands-on patient care positions and administrative occupations. 
+		The following guide explores the various degree and career paths in the health care industry, 
+		examines skills and credentials for success, and provides an overview of the employment 
+		outlook and earning potential for individuals interested in a health care degree and career.</p>
+		
+			<div class="dropdown1">
+			<button class="dropbtn1"><b>Doctors & field of Interest</b></button>
+			<div class="dropdown1-content">
+			<a href="https://www.aamc.org/cim/specialty/exploreoptions/list/">Association of American Medical Colleges</a>
+			<a href="https://www.meditec.com/resourcestools/professional-associations-list/">Meditec</a>
+			<a href="https://jobs.mayoclinic.org/">Mayo Foundation for Medical Education and Research (MFMER)</a>
+			</div>
+			</div>
+			
+			<div class="dropdown1">
+			<button class="dropbtn1"><b>Nursing & field of Interest</b></button>
+			<div class="dropdown1-content">
+			<a href="https://www.aacnnursing.org/">American Association of Colleges of Nursing (AACN) </a>
+			<a href="https://jobs.mayoclinic.org/">Mayo Foundation for Medical Education and Research (MFMER)</a>
+			<a href="https://nursing.jnj.com/nursing-news-events/nurses-leading-innovation/#.V0WxCJMrIw0">Johnson & Johnson</a>
+			</div>
+			</div>
+
+			<div class="dropdown1">
+			<button class="dropbtn1"><b>Pharmacist & field of Interest</b></button>
+			<div class="dropdown1-content">
+			<a href="https://pharmacy.tamhsc.edu/future/careers.html">Texas A&M Irma Lerma Rangel College of Pharmacy</a>
+			<a href="https://www.aurorahealthcarecareers.org/about-aurora">Aurora Health Care</a>
+			<a href="https://uwaterloo.ca/pharmacy/future-students/frequently-asked-questions/careers">200 University Avenue West Waterloo</a>
+			</div>
+			</div>
+
+		
+	 </article>
+<hr/>	 
+	 <article>
+	 <center><img src="D:\Other\A\Icon\it.png" width="280" height="280"/></center>
+		<h1 id="A3" align="center">Information Technology</h1>
+		<p align="center">The information technology profession is extremely diverse.
+		IT workers can specialize in fields like software development, 
+		application management, hardware components such as desktop support, 
+		server or storage administrator and network architecture. 
+		Many businesses seek IT professionals with mixed or overlapping skill sets.
+		<br/>We specialize in creating custom-matched connections between professionals and companies in temporary, 
+		contact-to-hire, direct hire and retained positions. We provide technology staffing solutions for hiring with confidence</p>
+		<div class="dropdown1">
+			<button class="dropbtn1"><b>Web Developer</b></button>
+			<div class="dropdown1-content">
+			<a href="https://www.indianic.com/careers/">IndiaNIC</a>
+			<a href="https://www.cisin.com/">Cyber Infrastructure, "CIS"</a>
+			<a href="https://www.intellectsoft.net/">Intellectsoft US </a>
+			</div>
+			</div>
+			
+			<div class="dropdown1">
+			<button class="dropbtn1"><b>Software Developer</b></button>
+			<div class="dropdown1-content">
+			<a href="https://www.ultimatesoftware.com/">Ultimate Software</a>
+			<a href="https://www.cisco.com/c/en_in/index.html">CISCO</a>
+			<a href="https://consensys.net/">Consensus Systems</a>
+			</div>
+			
+			</div><div class="dropdown1">
+			<button class="dropbtn1"><b>Database Administrators</b></button>
+			<div class="dropdown1-content">
+			<a href="http://isac.net.in/">Incede Software And Consulting (OPC) Pvt. Ltd.</a>
+			<a href="https://www.ncr.com/">NCR Corporation India Pvt. Ltd</a>
+			<a href="https://www.capgemini.com/">Capgemini Technology Services India Limited</a>
+			</div>
+			</div>
+	 </article>
+<hr/>
+
+	 <article>
+	 <center><img src="D:\Other\A\Icon\contact.png" width="280" height="280"/></center>
+		<h1 id="C5" align="center">Contact Us</h1>
+		<p align="center">Further your information and ideas with the <font color="green"><b>EdMeSe</b></font></a>.<br/>Contact Us! Share your interest and opinion which will benefit you and Future!</p>
+		<img src="D:\Other\A\Icon\mail.png" width="80" height="80" ali/><p1>contactusedmese@gmail.com</p1><br/>
+		<img src="D:\Other\A\Icon\facebook.png" width="80" height="80"/><p1>EdMeSe.facebook.in</p1><br/>
+		<img src="D:\Other\A\Icon\instagram.png" width="80" height="80"/><p1>EdMeSe.Instagram.in</p1><br/>
+		<img src="D:\Other\A\Icon\linkedin.png" width="80" height="80"/><p1>EdMeSe.LinkedIn.in</p1><br/>
+		<img src="D:\Other\A\Icon\callus.png" width="80" height="80"/><p1>+91-9119456939</p1>
+		<h1 id="C2" align="center">Ciao!</h1>
+	 </article>
+
+<hr align="center" width="100px"/>
+</body>
+</html>
